@@ -1,0 +1,44 @@
+.quote {
+    font-size: 1.1em; /* Font size kept larger for proportion reason */
+    font-style: italic;
+}
+
+.body {
+    max-width: 1000px;
+    background-image: radial-gradient(#dce35b,#45b649);
+    opacity: 90%;
+}
+
+.content-text {
+    text-align: justify;
+    margin-right: 10px;
+}
+
+.store-address {
+    font-weight: bold;
+}
+
+.mySlides {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.myLabels {
+    display: none;
+}
+
+.error {
+    color: #F00;
+}
+
+table.item { border-spacing: 2px; }
+table.item th, table.item td { padding: 4px; }
+table.item { margin-bottom: 5px; }
+
+table.item th { border: 2px solid black; }
+table.item td { border: 2px solid black; }
+
+td.right { text-align: right; }
+td.left { text-align: left; }
+td.center { text-align: center; }

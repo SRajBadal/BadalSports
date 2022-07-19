@@ -1,0 +1,44 @@
+
+-----------------------------------------------------------
+Date Recieved: 21st of February, 2022 at 00:51:23
+From: Mr. Sudeep Raj Badal
+E-mail address: srajbadal@gmail.com
+Phone Number: 111-222-3333
+--------------------------------------
+Subject: Test email
+--------------------------------------
+This is a test email.
+======================================
+
+-----------------------------------------------------------
+Date Recieved: 21st of February, 2022 at 00:51:31
+From: Mr. Sudeep Raj Badal
+E-mail address: srajbadal@gmail.com
+Phone Number: 111-222-3333
+--------------------------------------
+Subject: Test email
+--------------------------------------
+This is a test email.
+======================================
+
+-----------------------------------------------------------
+Date Recieved: 21st of February, 2022 at 01:12:15
+From: Mr. Sudeep Raj Badal
+E-mail address: srajbadal@gmail.com
+Phone Number: Not given
+--------------------------------------
+Subject: Another test
+--------------------------------------
+klsjdflkjsdlfkjslkdjfs
+======================================
+
+-----------------------------------------------------------
+Date Recieved: 26th of February, 2022 at 10:46:10
+From: Mr. Nikolaus Kollo
+E-mail address: nikolaus.kollo@smu.ca
+Phone Number: Not given
+--------------------------------------
+Subject: A test
+--------------------------------------
+for grades
+======================================

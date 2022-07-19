@@ -1,0 +1,102 @@
+{
+    "_id": 1,
+    "author": "Michael Jordan",
+    "text": "Never say never because limits, like fears, are often illusions.",
+    "adjective": "motivating"
+}
+{
+    "_id": 2,
+    "author": "Kerri Walsh Jennings",
+    "text": "It's going to be a journey. It's not a sprint to get in shape.",
+    "adjective": "profound"
+}
+{
+    "_id": 3,
+    "author": "Venus Williams",
+    "text": "Just Believe in yourself. Even if you don't pretend that you do, and some point, you will.",
+    "adjective": "inspiring"
+}
+{
+    "_id": 4,
+    "author": "Billie Jean King",
+    "text": "Champions keep playing until they get it right.",
+    "adjective": "advisory"
+}
+{
+    "_id": 5,
+    "author": "Mia Hamm",
+    "text": "It is more difficult to stay on top than to get there",
+    "adjective": "insightful"
+}
+{
+    "_id": 6,
+    "author": "Wilma Rudolph",
+    "text": "It doesn't matter what you're trying to accomplish. It's all a matter of discipline.",
+    "adjective": "so-true"
+}
+{
+    "_id": 7,
+    "author": "Jackie Joyner-Kersee",
+    "text": "The only person who an stop you from reaching your goals is you.",
+    "adjective": "helpful"
+}
+{
+    "_id": 8,
+    "author": "LeBron James",
+    "text": "Don't be afraid of failure. This is the way to succeed.",
+    "adjective": "wise"
+}
+{
+    "_id": 9,
+    "author": "Satchel Paige",
+    "text": "Don't look back. Something might be gaining on you.",
+    "adjective": "insightful"
+}
+{
+    "_id": 10,
+    "author": "Muhammad Ali",
+    "text": "It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.",
+    "adjective": "encouraging"
+}
+{
+    "_id": 11,
+    "author": "John Madden",
+    "text": "The fewer rules a coach has, the fewer rules there are for players to break.",
+    "adjective": "trenchant"
+}
+{
+    "_id": 12,
+    "author": "Thomas Jefferson",
+    "text": "I find that the harder I work, the more luck I seem to have.",
+    "adjective": "insightful"
+}
+{
+    "_id": 13,
+    "author": "Heywood Broun",
+    "text": "Sports do not build character. They reveal it.",
+    "adjective": "advisory"
+}
+{
+    "_id": 14,
+    "author": "Knute Rockne",
+    "text": "One man practicing sportsmanship is far better than a hundred teaching it.",
+    "adjective": "observational"
+}
+{
+    "_id": 15,
+    "author": "Earl Monroe",
+    "text": "Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.",
+    "adjective": "insightful"
+}
+{
+    "_id": 16,
+    "author": "Zig Ziglar",
+    "text": "Don't be distracted by criticism. The only taste of success some people get is to take a bite out of you.",
+    "adjective": "interesting"
+}
+{
+    "_id": 17,
+    "author": "James Cameron",
+    "text": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+    "adjective": "inspirational"
+}
